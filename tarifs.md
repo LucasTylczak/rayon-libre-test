@@ -1,6 +1,6 @@
 # Tarifs
 
-Adhésion annuelle : 20 €
+Adhésion annuelle : 18 €
 Adhésion étudiante : 10 €
 Accès à l'atelier (adhérent) : gratuit
 Chambre à air neuve : 6 €
